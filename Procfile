@@ -1,1 +1,1 @@
-worker: python sshbot (1).py
+worker: python sshbot.py
