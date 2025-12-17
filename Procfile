@@ -1,0 +1,1 @@
+worker: python sshbot.py
